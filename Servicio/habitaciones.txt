@@ -1,0 +1,2 @@
+{'id':1,'aforo':2,'list_equip':['Lista'],'ocup': 'No'}
+{'id':2,'aforo':2,'list_equip':['Vino'],'ocup': 'No'}
