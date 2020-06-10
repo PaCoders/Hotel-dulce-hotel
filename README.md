@@ -1,4 +1,4 @@
-# Hotel-dulce-hotel
+# Hotel Dulce Hotel
 Programa realizado con Bottle que gestiona las habitaciones que hay en un hotel.
 
 ## ¿Cómo se estructura el proyecto?
