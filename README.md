@@ -28,4 +28,4 @@ pip3 install bottle
 ```
 
 ## Realizado por:
-_Para verlo mire la lista de [colaboradores](https://github.com/your/project/contributors) ._
+_Para verlo mire la lista de [colaboradores](https://github.com/PaCoders/Hotel-dulce-hotel/graphs/contributors) ._
