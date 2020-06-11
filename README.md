@@ -28,5 +28,5 @@ pip3 install bottle
 ```
 
 ## Realizado por:
-* [Mí](https://github.com/PaCoders)
+* [Paco](https://github.com/PaCoders)
 * [Antonio](https://github.com/Renjian-Reyes)
